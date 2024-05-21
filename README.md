@@ -1,0 +1,1 @@
+The Regression Analysis and Multivariate Data Analysis project was created for the Regression Analysis and Multivariate Data Analysis course unit with the aim of creating a regression model and analyzing it in conjunction with other tools covered by the course
